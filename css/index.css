@@ -5,6 +5,7 @@
 }
 body {
     background-color: #b3b3b3;
+    height: 100%VH
 }
 nav {
     display: flex;
