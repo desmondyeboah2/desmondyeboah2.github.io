@@ -12,6 +12,8 @@ header {
     justify-content: space-around;
     background-color: #ff3c00;
     width: 100%;
+    position: fixed;
+    top: 0;
 }
 nav li {
     width: 70px;
