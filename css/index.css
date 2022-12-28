@@ -11,6 +11,7 @@ header {
     align-items:center;
     justify-content: space-around;
     background-color: #ff3c00;
+    width: 100%;
 }
 nav li {
     width: 70px;
