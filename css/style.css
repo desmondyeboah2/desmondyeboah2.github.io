@@ -1,0 +1,35 @@
+
+img[alt$='Logo'] {
+    width: 35%;
+}
+
+.round-circle {
+    background-color: #f00;
+    width: 300px;
+    height: 300px;
+    border-radius:50%;
+}
+
+.myself {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #dbddf1;
+	padding: 80px 0;
+}
+.gallery img{
+	background-color: #ffffff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
